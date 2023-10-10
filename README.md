@@ -6,7 +6,7 @@ finhomeworkpython.pynb:
 - Recursion
 - Recursive Backtracking
 - Unit Tests
-- Familiarity With Python Libraries
+- Python Libraries
 
 CS330python.py:
 - Object oriented programming
@@ -15,5 +15,11 @@ CS330python.py:
 
 Bowling_game.py:
 - Object Oriented Programming
-- User Input
+- User Inputs
 
+Accounting Software Project:
+- Object Oriented Programming
+- User Inputs
+- Python Libraries
+- Accounting/Financial Knowledge
+  
