@@ -22,4 +22,8 @@ Accounting Software Project:
 - User Inputs
 - Python Libraries
 - Accounting/Financial Knowledge
-  
+
+Dijkstra.py:
+- Dijkstra's Algorithm Implementation
+- Python Libraries
+- Unit Tests
