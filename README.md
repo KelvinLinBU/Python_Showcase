@@ -12,3 +12,8 @@ CS330python.py:
 - Object oriented programming
 - Dynamic Programming
 - Unit Tests
+
+Bowling_game.py:
+- Object Oriented Programming
+- User Input
+
