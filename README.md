@@ -2,9 +2,13 @@
 Projects written in Python
 
 finhomeworkpython.pynb: 
-- Object oriented programming
+- Object Oriented Programming
 - Recursion
 - Recursive Backtracking
 - Unit Tests
 - Familiarity With Python Libraries
-- Advanced Skill in Python Coding Language
+
+CS330python.py:
+- Object oriented programming
+- Dynamic Programming
+- Unit Tests
